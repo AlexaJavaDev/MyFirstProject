@@ -13,5 +13,3 @@ public class Calculator {
         return a - b;
     }
 }
-
-(Добавила простой калькулятор)
